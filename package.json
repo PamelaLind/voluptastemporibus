@@ -1,0 +1,21 @@
+{
+  "name": "voluptastemporibus",
+  "scripts": {
+    "precommit": "lerna run --concurrency 1 --stream precommit"
+  },
+  "devDependencies": {
+    "lerna": "^2.8.0",
+    "prettier": "1.13.0",
+    "husky": "^0.14.3"
+  },
+  "author": "JaylonParisian",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PamelaLind/voluptastemporibus.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PamelaLind/voluptastemporibus.git/issues"
+  },
+  "homepage": "https://github.com/PamelaLind/voluptastemporibus.git",
+  "version": "1.0.0"
+}
